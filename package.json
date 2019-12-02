@@ -1,0 +1,24 @@
+{
+  "name": "nodeplot",
+  "version": "0.1.0",
+  "description": "A node.js plotting package based on Gnuplot, inspired by Python Matplotlib library.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Abdelaziz18003/nodeplot.git"
+  },
+  "keywords": [
+    "node.js",
+    "plot",
+    "matplotlib"
+  ],
+  "author": "Abdelaziz Mokhnache <m.abdelaziz1993@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Abdelaziz18003/nodeplot/issues"
+  },
+  "homepage": "https://github.com/Abdelaziz18003/nodeplot#readme"
+}
