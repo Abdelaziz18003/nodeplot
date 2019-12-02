@@ -4,7 +4,7 @@
   "description": "A node.js plotting package based on Gnuplot, inspired by Python Matplotlib library.",
   "main": "src/index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node test/index.js"
   },
   "repository": {
     "type": "git",
@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/Abdelaziz18003/nodeplot/issues"
   },
-  "homepage": "https://github.com/Abdelaziz18003/nodeplot#readme"
+  "homepage": "https://github.com/Abdelaziz18003/nodeplot#readme",
+  "devDependencies": {
+    "tape": "^4.11.0"
+  }
 }
